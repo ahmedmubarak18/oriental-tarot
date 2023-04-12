@@ -1,0 +1,224 @@
+*{
+    background-color: burlywood;
+}
+header{
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 999;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    color: brown;
+    margin: 20px;
+}
+.w{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+    color: crimson;
+    background-color: antiquewhite;
+}
+a{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: x-large;
+    padding-right: 30px;
+    background-color: antiquewhite;
+    text-decoration: none;
+}
+.youtube{
+    color: red;
+}
+.facebook{
+    color: blue;
+}
+.instagram{
+    color: brown;
+}
+.facebook,.instagram:hover{
+    color: blueviolet;
+}
+.youtube:hover{
+    color: blueviolet;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    color: rgb(17, 1, 1);
+}
+.ab{
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    margin: 20px;
+    display: inline
+    
+}
+
+h2{
+    width: 200px;
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin: 100px;
+    color: red;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+}
+.cards{
+    padding: 50px;
+    background-color: steelblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row
+
+    
+}
+.card1{
+    width: 300px;
+    height: auto;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    transition: 0.7s ease;
+}
+.card2{
+    
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.card3{
+    
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.card4{
+    
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.card5{
+    
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.card6{
+    
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 100%);
+    font-size: x-large;
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+.info,.cost{
+    background-color: antiquewhite;
+    font-size: xx-large;
+}
+.note{
+    background-color:  steelblue;;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(226, 13, 13);
+}
+.q{
+    font-size: x-large;
+    margin: 20px;
+}
+em{
+    color: green;
+}
+h4{
+    font-size: xx-large;
+    margin: 20px;
+}
+.y{
+    background-color: burlywood;
+    font-size: xx-large;
+    color: blue;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+footer{
+    
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 999;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    color: brown;
+    margin-top: 100px;
+    margin: 20px;
+}

@@ -1,0 +1,61 @@
+*{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+.ab{
+    width: 550px;
+    height: 400px;
+}
+p{
+    font-size: xx-large;
+    padding: 10px;
+}
+
+.arabic{
+    
+    text-align: right;
+    font-size: x-large;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    color: brown;
+    padding: 10px;
+}
+ul{
+    font-size: x-large;
+}
+.pay{
+    color: blue;
+}
+
+footer{
+    
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    z-index: 999;
+    justify-content: space-between;
+    background-color: rgb(231, 148, 40);
+    color: brown;
+    margin-top: 100px;
+    margin: 20px;
+}
+.youtube,.facebook,.instagram,.w{
+    background-color:  rgb(231, 148, 40);
+    font-size:xx-large ;
+    text-decoration:none ;
+}
+.youtube{
+    color: red;
+}
+.facebook{
+    color: blue;
+}
+.instagram{
+    color: brown;
+}
